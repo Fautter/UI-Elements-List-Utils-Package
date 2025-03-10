@@ -1,0 +1,26 @@
+{
+  "name": "com.fauttergames.ui-elements-list-utils",
+  "version": "1.0.0",
+  "displayName": "UI Elements List Utils",
+  "description": "Classes for loading a list of UI elements with custom data.",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.0"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": {
+    "name": "Fautter Games"
+  },
+  "samples": [
+    {
+      "displayName": "UI List Sample Scene",
+      "description": "",
+      "path": "Samples~/SampleScene"
+    }
+  ]
+}
